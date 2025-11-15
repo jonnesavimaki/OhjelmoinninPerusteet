@@ -1,0 +1,10 @@
+1|Anna Virtanen|2025-10-31|10:00|2|19.95|False|Kokoustila A|0401234567|anna.virtanen@example.com
+2|Seppo Taalasmaa|2025-10-31|10:00|2|19.95|False|Kokoustila A|0401234567|anna.virtanen@example.com
+3|Matti Meikäläinen|2026-01-15|09:00|3|19.95|True|Kokoustila B|0501234567|matti.meikalainen@example.com
+4|Liisa Korhonen|2025-12-05|14:00|20|19.95|False|Kokoustila C|0507654321|liisa.korhonen@example.com
+5|Pekka Lahti|2026-02-20|08:30|4|19.95|True|Kokoustila A|0409876543|pekka.lahti@example.com
+6|Sanna Niemi|2025-11-20|12:00|1|19.95|False|Kokoustila B|0412345678|sanna.niemi@example.com
+7|Jukka Virtanen|2026-03-10|16:00|2|19.95|True|Kokoustila C|0441234567|jukka.virtanen@example.com
+8|Elina Salmi|2025-12-31|18:00|3|19.95|False|Kokoustila A|0405551234|elina.salmi@example.com
+9|Antti Ojala|2026-04-01|10:00|2|19.95|True|Kokoustila B|0503332222|antti.ojala@example.com
+10|Marja Laakso|2025-11-18|09:30|1|19.95|False|Kokoustila C|0456667777|marja.laakso@example.com
