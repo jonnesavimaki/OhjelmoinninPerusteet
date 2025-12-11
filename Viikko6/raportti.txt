@@ -1,0 +1,5 @@
+Kuukausikohtainen raportti:
+Kuukausi: Toukokuu
+Kulutus yhteensä: 306,64 kWh
+Tuotanto yhteensä: 451,98 kWh
+Keskilämpötila: 9.6 °C
